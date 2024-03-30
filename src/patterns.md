@@ -565,7 +565,7 @@ The grammar production for reference patterns has to match the token `&&` to mat
 
 Adding the `mut` keyword dereferences a mutable reference. The mutability must match the mutability of the reference.
 
-Reference patterns are always irrefutable.
+Reference patterns are always refutable.
 
 ## Struct patterns
 
